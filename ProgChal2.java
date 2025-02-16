@@ -29,7 +29,7 @@ public class ProgChal2
        //print full name
        System.out.println("Your name is: " + firstName + ' ' + middleName + ' '+ 
                           lastName);
-       System.out.println("My initials are: " + firstInit +
+       System.out.println("Your initials are: " + firstInit +
                           middleInit + lastInit);
     }
     
